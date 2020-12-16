@@ -1,2 +1,2 @@
-# Final_version
- my Christams gamd
+# Personal project
+ This is my christmas game demo
